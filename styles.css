@@ -671,6 +671,12 @@ body.dark-mode {
   transform: scale(1.2);  
 }
 
+#dark-mode-toggle.sun-icon {
+  background-color: white !important; 
+  color: #ffa500; 
+  border: 2px solid #fff; 
+}
+
 .tooltip-text {
   visibility: hidden;
   position: absolute;
